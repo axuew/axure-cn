@@ -5,7 +5,7 @@
 
 
 ### Windows
-* 从[官网](https://d3uii9pxdigrx1.cloudfront.net/AxureRP-Setup-Beta.exe)下载安装最新版的 Axure RP 10 并安装
+* 从[官网](https://d3uii9pxdigrx1.cloudfront.net/AxureRP-Setup-Beta.exe)下载安装最新版的 Axure RP 11 并安装
 * 点击[下载语言包](https://github.com/axuew/axure-cn/archive/refs/tags/V1.0.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 11」中的「lang」文件夹
 * 进入 Axure 安装目录
